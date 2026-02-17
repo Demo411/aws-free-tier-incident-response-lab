@@ -105,7 +105,7 @@ Cost-aware cloud security design
 
 ### Screenshots
 
-![Screenshots](Screenshots.pdf)
+![Screenshots](screenshots/Screenshots.pdf)
 
 
 See the full investigation queries here:  
