@@ -103,6 +103,9 @@ Detection engineering using CloudWatch
 
 Cost-aware cloud security design
 
+### Screenshots
+
+![screenshots](screenshots/cloudtrail-enabled.png)
 
 See the full investigation queries here:  
 👉 [Athena Investigation Queries](athena-queries.sql)
