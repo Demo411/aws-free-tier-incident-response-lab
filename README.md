@@ -12,7 +12,8 @@ Services Used:
 - Amazon CloudWatch
 - AWS IAM
 
-## Architecture Diagram
-
-![Architecture Diagram](aws_proj_1.drawio.png)
+<h2>Architecture Diagram</h2>
+<p align="center">
+  <img src="diagrams/architecture-diagram.png" width="700">
+</p>
 
