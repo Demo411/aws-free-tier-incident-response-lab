@@ -102,3 +102,7 @@ Network isolation strategy
 Detection engineering using CloudWatch
 
 Cost-aware cloud security design
+
+
+See the full investigation queries here:  
+👉 [Athena Investigation Queries](athena-queries.sql)
