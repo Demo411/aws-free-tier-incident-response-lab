@@ -14,5 +14,5 @@ Services Used:
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](aws_proj_1.drawio.png)
 
