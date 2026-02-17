@@ -105,7 +105,7 @@ Cost-aware cloud security design
 
 ### Screenshots
 
-![screenshots](Screenshots.pdf)
+(Screenshots.pdf)
 
 See the full investigation queries here:  
 👉 [Athena Investigation Queries](athena-queries.sql)
