@@ -105,7 +105,8 @@ Cost-aware cloud security design
 
 ### Screenshots
 
-![Screenshots](screenshots/Screenshots.pdf)
+![Screenshots](aws-free-tier-incident-response-lab
+/Screenshots.pdf)
 
 
 See the full investigation queries here:  
