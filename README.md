@@ -112,3 +112,12 @@ See the full investigation queries here:
 👉 [Athena Investigation Queries](athena-queries.sql)
 
 See lessons-learned.md for reflections and future improvements.
+
+## Future Improvements
+
+In a production environment, I would:
+- Centralize logs using AWS Organizations
+- Automate isolation using EventBridge + Lambda
+- Enable GuardDuty for threat intelligence
+- Implement cross-account logging architecture
+
