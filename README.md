@@ -12,4 +12,7 @@ Services Used:
 - Amazon CloudWatch
 - AWS IAM
 
+## Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
 
