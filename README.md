@@ -14,6 +14,6 @@ Services Used:
 
 <h2>Architecture Diagram</h2>
 <p align="center">
-  <img src="diagrams/architecture-diagram.png" width="700">
+  <img src="aws_proj_1.drawio.png" width="700">
 </p>
 
