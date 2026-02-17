@@ -105,7 +105,8 @@ Cost-aware cloud security design
 
 ### Screenshots
 
-(Screenshots.pdf)
+![Screenshots](screenshots/cloudtrail-enabled.png)
+
 
 See the full investigation queries here:  
 👉 [Athena Investigation Queries](athena-queries.sql)
