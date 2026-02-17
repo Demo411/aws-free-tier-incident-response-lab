@@ -121,3 +121,4 @@ In a production environment, I would:
 - Enable GuardDuty for threat intelligence
 - Implement cross-account logging architecture
 
+
