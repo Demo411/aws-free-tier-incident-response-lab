@@ -105,7 +105,7 @@ Cost-aware cloud security design
 
 ### Screenshots
 
-![Screenshots](screenshots/cloudtrail-enabled.png)
+![Screenshots](Screenshots.pdf)
 
 
 See the full investigation queries here:  
