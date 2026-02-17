@@ -110,3 +110,5 @@ Cost-aware cloud security design
 
 See the full investigation queries here:  
 👉 [Athena Investigation Queries](athena-queries.sql)
+
+See lessons-learned.md for reflections and future improvements.
